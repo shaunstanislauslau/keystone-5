@@ -1,5 +1,11 @@
 # @keystone-alpha/keystone
 
+## 16.0.2
+
+### Patch Changes
+
+- [`8fd35c40`](https://github.com/keystonejs/keystone-5/commit/8fd35c405059a3d275e99fe577c4ac706b40fd0a) [#1758](https://github.com/keystonejs/keystone-5/pull/1758) - Add trustProxies config option to Keystone object
+
 ## 16.0.1
 
 ### Patch Changes
